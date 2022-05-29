@@ -26,4 +26,4 @@ def mailer(str_message):
             print('mail sent?')
         except Exception as e:
         # Print any error messages to stdout
-            print(e
+            print(e)
